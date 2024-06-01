@@ -15,5 +15,9 @@ if [ -L "/usr/doc/sash" ]; then
     rm -f "/usr/doc/sash"
 fi
 
+#This program shows "this is a test from YU HSIANG LIN" in your screen.
+
+#stdout
+echo "this is a test from YU HSIANG LIN" >&1
 
 #DEBHELPER#
