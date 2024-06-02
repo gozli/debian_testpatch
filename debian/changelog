@@ -1,3 +1,9 @@
+sash (3.8-6ubuntu1test) focal; urgency=medium
+
+  * Add shell example for testing
+
+ -- YU-HSIANG LIN <gozli427@gmail.com>  Sun, 02 Jun 2024 04:17:43 +0000
+
 sash (3.8-5) unstable; urgency=medium
 
   * Add German, French, Dutch, Russian and Portuguese Debconf
